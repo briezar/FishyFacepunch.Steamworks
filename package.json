@@ -1,18 +1,17 @@
 {
-    "name": "com.briezar.fishy.facepunch.steamworks",
+    "name": "com.briezar.fishyfacepunch.steamworks",
     "version": "1.0.0",
-    "displayName": "Fishy Facepunch Steamworks",
-    "description": "UPM wrapper for FishyFacepunch v4.1.0 and Facepunch.Steamworks v2.5.2.",
+    "displayName": "FishyFacepunch & Facepunch.Steamworks Bundle",
+    "description": "A unified UPM wrapper for FishyFacepunch and Facepunch.Steamworks for easy installation via Git URL.",
     "unity": "2021.3",
     "author": {
         "name": "Briezar"
     },
     "keywords": [
-        "FishNetworking",
-        "Networking",
-        "FishNet",
-        "Facepunch",
-        "Steam",
-        "Steamworks"
+        "networking",
+        "steamworks",
+        "facepunch",
+        "fishnet",
+        "transport"
     ]
 }
