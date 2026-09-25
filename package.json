@@ -1,0 +1,18 @@
+{
+    "name": "com.briezar.fishy.facepunch.steamworks",
+    "version": "1.0.0",
+    "displayName": "Fishy Facepunch Steamworks",
+    "description": "UPM wrapper for FishyFacepunch v4.1.0 and Facepunch.Steamworks v2.5.2.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Briezar"
+    },
+    "keywords": [
+        "FishNetworking",
+        "Networking",
+        "FishNet",
+        "Facepunch",
+        "Steam",
+        "Steamworks"
+    ]
+}
